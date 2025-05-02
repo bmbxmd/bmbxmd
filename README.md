@@ -19,7 +19,7 @@
   <a href="https://www.youtube.com/@bmb-xmd"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
   
 <div align="center">
-  <img src="https://files.catbox.moe/7gflyw.png" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/jw8chw.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ### Pubg mobile 🎮
