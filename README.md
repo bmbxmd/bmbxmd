@@ -10,11 +10,11 @@
 ### Connect with me ☎️
 <p align="center">
   <a href="https://www.instagram.com/bmb_tz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/255767862454"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/255767862457"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/denic_tz"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/dev_bmb_xmd"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/bmb-xmd"><img src="https://img.shields.io/badge/YouTube-Zeeone Ofc-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/bmb-xmd" /><br>
-  <a name=ZeeoneOfc&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://t.me/bmb_xmd"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/bmb-xmd"><img src="https://img.shields.io/badge/YouTube-𝙱.𝙼.𝙱-𝚇𝙼𝙳-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/bmb-xmd" /><br>
+  <a name=𝙱.𝙼.𝙱-𝚇𝙼𝙳=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/bmbxmd"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://www.youtube.com/@bmb-xmd"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
   
