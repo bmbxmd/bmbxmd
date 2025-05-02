@@ -1,7 +1,7 @@
 <p align="center">
 
 - 👤 My name is 𝙱.𝙼.𝙱-𝚇𝙼𝙳 
-- 💌 I am 20 years old 
+- 💌 I am 22 years old 
 - 👨‍💻 I am not programmer
 
 </p>
@@ -19,7 +19,7 @@
   <a href="https://www.youtube.com/@bmb-xmd"><img src="https://img.shields.io/youtube/channel/subscribers/UCI3Y4qWtkZQlhBq5UQhhmew?style=social" /> <br>
   
 <div align="center">
-  <img src="https://files.catbox.moe/f4q8fh.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/7gflyw.png" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ### Pubg mobile 🎮
